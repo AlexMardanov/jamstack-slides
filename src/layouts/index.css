@@ -41,13 +41,17 @@ html {
   justify-content: center;
   align-items: center;
 
-  width: 100vw;
+  width: 80vw;
   height: 100vh;
-  padding: 1rem;
+  margin: 0 auto;
 
   text-align: center;
 
   -webkit-overflow-scrolling: touch;
+}
+
+#slide img {
+  max-width: 100%;
 }
 
 #slide ul {
