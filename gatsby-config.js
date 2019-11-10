@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     name: `Alexandr Mardanov`,
-    title: `JAMstack & Gatsby`,
-    date: `July 30, 2019`,
+    title: `JAM Stack with Gatsby`,
+    date: `November 12, 2019`,
   },
   plugins: [
     `gatsby-plugin-layout`,

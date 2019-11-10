@@ -60,9 +60,3 @@ https://github.com/agarrharr/awesome-static-website-services
 ![](https://jstack.ru/img/jamstack/jamstack-benefits-speed.png)
 
 ![](https://jstack.ru/img/jamstack/jamstack-benefits-security-2.png)
-
----
-
-## Вопросы?
-
-![](https://cdn-images-1.medium.com/max/800/1*xl31p_qdHAe73krTJAka_Q.gif)
